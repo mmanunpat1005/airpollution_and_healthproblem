@@ -1,9 +1,0 @@
-name: "Data Science for Business Analytics 2021"
-output_dir: "."
-navbar:
-  title: "Data Science for Business Analytics 2021 Group 8"
-  left:
-    - text: "Project"
-      href: report/report.html
-output:
-  html_document:
