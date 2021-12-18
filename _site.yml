@@ -5,7 +5,6 @@ navbar:
   left:
     - text: "Project"
       href: report/report.html
-    
 output:
   html_document:
     theme: flatly
