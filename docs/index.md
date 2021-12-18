@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+WHAT HAS BEEN THE IMPACT FROM AIR POLLUTION ON GLOBAL HEALTH PROBLEMS FROM 1990 TO PRESENT?
+---
+We have chosen the theme of air pollution because global warming is a battle that will define our future as a species. Although more and more people from different backgrounds such as scientists, economists, or politicians are trying to prevent this crisis, no concrete amelioration has been registered so far. We believe that it is key to better understand the scope of air pollution’s impact on different metrics to realize the importance and emergency of the problem. We are especially interested in this, that this crisis affects multiple themes, such as health, nature, our economy, and its growth. However, for this project, we want to focus on the impact of air pollution on one of these, namely health. 
 
-You can use the [editor on GitHub](https://github.com/manunpat/airpollution_and_healthproblem/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+We chose to focus on health because we thought that it is something that affects everyone and that it will last for years to come, as we are producing more air pollution each year. We thought it would be interesting to compare the evolution of the mortality rate due to pollution with the evolution of air pollution to have a better picture of current trends and see how they are related to each other, and how fast they are growing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+While our research will focus on global issues, we wanted to understand how being from different parts of the world could affect air pollution. That is why we also decided to research the evolution of Air pollution during seasonal change. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/manunpat/airpollution_and_healthproblem/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Overall, we decided to focus on a global scale because we come from 3 different countries located on 3 different continents. Indeed, we thought it would be great to have a grasp of the situation worldwide. That is why we picked multiple factors (e.g. economic factors, geographic location, seasons, pollutants, etc) to see how they affect health and air pollution.
