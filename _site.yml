@@ -1,0 +1,15 @@
+name: "personal-website"
+output_dir: "."
+navbar:
+  title: "Personal Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Project"
+      href: report.html
+    
+output:
+  html_document:
+    theme: flatly
+    css: style.css
+    
